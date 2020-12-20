@@ -2,6 +2,10 @@
 
 Delhi Mumbai
 
+The aim of this project is to predict the number of reservations restaurants are likely to have basis historical data.
+
+Three approaches are explored: Linear Regression, Random Forest and XGBoost Algorithm.
+
 You can use the [editor on GitHub](https://github.com/PranayMalhotra/forecasting_restaurant_reservations/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
